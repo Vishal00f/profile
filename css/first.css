@@ -1,0 +1,153 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+body{
+    text-align: center;
+    max-height: 100%;
+    font-size:1.2rem;
+}
+.top-container{
+    background-color: #e4f9f5;
+
+}
+.top-container p{
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+.top-container span{
+    text-decoration: underline;
+}
+.profile img{
+    margin-top: 2rem;
+    width: 180px;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: #66BFBF;
+
+}
+h1:focus{
+    background-color: #000000;
+}
+.top-cloud{
+    margin: 40px;
+    position: relative;
+    left: 20%;
+    
+}
+.bottom-cloud{
+    position: absolute;
+}
+.mountain{
+    width: 60%;
+}
+.middle-container span{
+    font-family: 'Sacramento', cursive;
+    font-size: 1.5rem;
+}
+.skill-row h3{
+    text-decoration: underline;
+    word-wrap: nowrap;
+
+}
+.first{
+    margin-bottom: 4rem;
+    width: 50%;
+    margin: auto;
+}
+.skill-row span{
+    font-family:sans-serif;
+    font-size: 1rem;
+}
+h3, a{
+    color: #11999E;
+}
+h2{
+    font-weight: normal;
+}
+.computer {
+    width: 25%;
+    
+}
+.first {
+    text-align: left;
+    margin-bottom: 5rem;
+}
+h3{
+    padding: 1rem;
+}
+.computer{
+    float: left;
+    margin-right: 30px;
+}
+.others{
+    float: right;
+    margin-left: 30px;
+}
+.second p{
+    margin-bottom: 10rem;
+
+}
+.second{
+    /* text-align: right; */
+    width: 50%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+  }
+  
+  .btn:hover {
+    background: #000000;
+    background-image: -webkit-linear-gradient(top, #000000, #3452d9);
+    background-image: -moz-linear-gradient(top, #000000, #3452d9);
+    background-image: -ms-linear-gradient(top, #000000, #3452d9);
+    background-image: -o-linear-gradient(top, #000000, #3452d9);
+    background-image: linear-gradient(to bottom, #000000, #3452d9);
+    text-decoration: none;
+  }
+  a{
+    margin-top: 20px;
+  }
+  .bottom-container{
+    margin-top: 2rem;
+  }
+  .gify{
+      width: 200px;
+      height: 200px;
+      margin: auto;
+  }
+  .bottom-container{
+    background-color: dodgerblue;
+    margin-bottom: 0;
+    width: 100%;
+    display: block;
+    padding-top: 1.5rem;
+    color: #66BFBF;
+    margin-top: 4rem;
+    color: whitesmoke;
+  }
+  .bottom-container a{
+    color: #3452d9;
+    margin: 1rem;
+  }
+  a:hover{
+    color: #ffffff;
+  }
